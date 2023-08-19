@@ -8,7 +8,7 @@ layout: page
 
 Here is **Guang Yang**.
 
-I am a PhD candidate majoring in **Data Science** at City University of Hong Kong.
+I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.
 
 <br>
 
