@@ -27,8 +27,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: Home
     url: /
-  - title: Publications
-    url: /publications/
+#  - title: Publications
+#    url: /publications/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
