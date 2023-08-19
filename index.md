@@ -24,6 +24,12 @@ I am a PhD candidate majoring in **Statistics** in School of Data Science, City 
 - Statistical Machine Learning
 - Medical imaging analysis
 
+## Teaching Assistant
+
+- SDSC6001 Statistical Machine Learning
+- SDSC3007 Advanced Statistics
+- SDSC2102 Statistical Methods and Data Analysis
+
 <br>
 
 ---
