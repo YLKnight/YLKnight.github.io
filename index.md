@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/YLKnight/YLKnight.github.io/blob/main/images/Icon.jpg" class="floatpic" width="480" height="480">
-
 Here is **Guang Yang**.
 
 I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.
