@@ -12,8 +12,8 @@ I am a PhD candidate majoring in **Statistics** in School of Data Science, City 
 
 ## Academic Background
 
-- **Sep 2016 - June 2020:** Renmin University of China
-- **Sep 2020 - June 2024:** City University of Hong Kong
+- **Sep 2016 - June 2020:** BEc, School of Statistics, Renmin University of China
+- **Sep 2020 - June 2024:** PhD, School of Data Science, City University of Hong Kong
 
 <br>
 
