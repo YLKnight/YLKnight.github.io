@@ -10,7 +10,9 @@ I am a PhD candidate majoring in **Statistics** in School of Data Science, City 
 
 <br>
 
-## Academic Background
+---
+
+## Education Background
 
 - **Sep 2016 - June 2020:** BEc, School of Statistics, Renmin University of China
 - **Sep 2020 - June 2024:** PhD, School of Data Science, City University of Hong Kong
@@ -24,6 +26,10 @@ I am a PhD candidate majoring in **Statistics** in School of Data Science, City 
 - Statistical Machine Learning
 - Medical imaging analysis
 
+<br>
+
+---
+
 ## Teaching Assistant
 
 - SDSC6001 Statistical Machine Learning
@@ -31,5 +37,3 @@ I am a PhD candidate majoring in **Statistics** in School of Data Science, City 
 - SDSC2102 Statistical Methods and Data Analysis
 
 <br>
-
----
