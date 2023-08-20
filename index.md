@@ -6,7 +6,8 @@ layout: page
 
 Here is **Guang Yang**.
 
-I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.
+I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.\
+My current research interests focus on statistical machine learning, medical imaging analysis, etc.
 
 <br>
 
@@ -16,15 +17,6 @@ I am a PhD candidate majoring in **Statistics** in School of Data Science, City 
 
 - **Sep 2016 - June 2020:** BEc, School of Statistics, Renmin University of China
 - **Sep 2020 - June 2024:** PhD, School of Data Science, City University of Hong Kong
-
-<br>
-
----
-
-## Research Interests
-
-- Statistical Machine Learning
-- Medical imaging analysis
 
 <br>
 
