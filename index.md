@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About
+# About Me
 
 Here is **Guang Yang**.
 
