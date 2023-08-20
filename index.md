@@ -15,8 +15,8 @@ My current research interests focus on statistical machine learning, medical ima
 
 ## Education Backgrounds
 
-- **Sep 2016 - June 2020:** BEc, School of Statistics, Renmin University of China
-- **Sep 2020 - June 2024:** PhD, School of Data Science, City University of Hong Kong
+- **2020.09 - 2024.06:** PhD, School of Data Science, City University of Hong Kong
+- **2016.09 - 2020.06:** BEc, School of Statistics, Renmin University of China
 
 <br>
 
