@@ -7,7 +7,7 @@ layout: page
 Here is **Guang Yang**.
 
 I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.\
-My current research interests focus on statistical machine learning, medical imaging analysis, etc.
+    My current research interests focus on statistical machine learning, medical imaging analysis, etc.
 
 <br>
 
@@ -24,7 +24,7 @@ My current research interests focus on statistical machine learning, medical ima
 
 ## Papers
 
-- Feng, L. and **Yang, G.**, 2022. Deep Kronecker Network. Biometrika, to appear. [[arKiv](https://arxiv.org/abs/2210.13327)]
+- Feng, L. and **Yang, G.**, 2023. Deep Kronecker Network. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
 - **Yang, G.** and Feng, L., 2021. Region Detection and Image Clustering via Sparse Kronecker Product Decomposition. Under review.
 - Zhang, Y., **Yang, G**., Zhao, S., Ni, P., Lian, H., Chen, H. and Li, C., 2020. Partial Label Learning via Generative Adversarial Nets. In ECAI 2020. [[IOS](https://ebooks.iospress.nl/doi/10.3233/FAIA200279)]
 
