@@ -4,7 +4,7 @@ layout: page
 
 # 关于
 
-我是 **杨光**.
+我是杨光。
 
 I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.
 
