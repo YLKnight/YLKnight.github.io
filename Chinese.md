@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me
+# 关于
 
-Here is **Guang Yang**.
+我是 **杨光**.
 
 I am a PhD candidate majoring in **Statistics** in School of Data Science, City University of Hong Kong.
 
