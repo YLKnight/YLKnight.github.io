@@ -26,7 +26,7 @@ layout: page
 
 ### 论文
 
-- **Yang, G.**, Feng, L., and Cao, Y, 2024. 注意力增强的个性化回归. Accepted by 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
+- **Yang, G.**, Feng, L., and Cao, Y., 2024. 注意力增强的个性化回归. Accepted by 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
 - Feng, L. and **Yang, G.**, 2023. 深度克罗内克网络. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
 - **Yang, G.** and Feng, L., 2021. 基于稀疏克罗内克积分解的区域检测和图像聚类. 在审.
 
