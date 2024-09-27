@@ -26,7 +26,7 @@ My current research interests focus on statistical machine learning, medical ima
 
 ## Papers
 
-- **Yang, G.**, Feng, L., and Cao, Y, 2024. Attention boosted Individualized Regression. Accepted by 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
+- **Yang, G.**, Feng, L., and Cao, Y., 2024. Attention boosted Individualized Regression. Accepted by 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
 - Feng, L. and **Yang, G.**, 2023. Deep Kronecker Network. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
 - **Yang, G.** and Feng, L., 2021. Region Detection and Image Clustering via Sparse Kronecker Product Decomposition. Under review.
 
