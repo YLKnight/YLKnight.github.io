@@ -1,4 +1,4 @@
-My name is **Guang Yang(杨光)**. Here is my personal website [homepage](https://ylknight.github.io/).
+My name is **Guang Yang(杨光)**. Here is my [homepage](https://ylknight.github.io/).
 
 ## Statement
 
