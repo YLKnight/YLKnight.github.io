@@ -17,7 +17,7 @@ My current research interests focus on statistical machine learning, medical ima
 ## Backgrounds
 
 - **2024.09 - Present:** Postdoc, Department of Statistics, The Chinese University of Hong Kong
-- **2020.09 - 2024.08:** PhD, School of Data Science, City University of Hong Kong
+- **2020.09 - 2024.08:** PhD, Department of Data Science, City University of Hong Kong
 - **2016.09 - 2020.06:** BEc, School of Statistics, Renmin University of China
 
 <br>
