@@ -26,13 +26,17 @@ layout: page
 
 ### 论文
 
-- **Yang, G.**, Feng, L., and Cao, Y., 2024. 注意力增强的个性化回归. Accepted by 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
+#### 期刊
+
 - Feng, L. and **Yang, G.**, 2023. 深度克罗内克网络. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
 - **Yang, G.** and Feng, L., 2021. 基于稀疏克罗内克积分解的区域检测和图像聚类. 在审.
-
-  <hr>
-
 - Zhang, Y., Lian, H., **Yang, G.**, Zhao, S., Ni, P., Chen, H. and Li, C., 2021. 基于生成对抗网络的不准确监督学习. IEEE Transactions on Cybernetics. [[IEEE](https://ieeexplore.ieee.org/abstract/document/9526351)]
+
+<hr>
+
+#### 会议
+
+- **Yang, G.**, Cao, Y., and Feng, L., 2024. 注意力增强的个性化回归. In 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
 - Zhang, Y., **Yang, G**., Zhao, S., Ni, P., Lian, H., Chen, H. and Li, C., 2020. 基于生成对抗网络的偏标签学习. In 24th European Conference on Artificial Intelligence (ECAI 2020). [[IOS](https://ebooks.iospress.nl/doi/10.3233/FAIA200279)]
 
 <br>
