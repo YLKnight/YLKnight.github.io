@@ -36,7 +36,7 @@ layout: page
 
 #### 会议
 
-- **Yang, G.**, Cao, Y., and Feng, L., 2024. 注意力增强的个性化回归. In 38th Conference on Neural Information Processing Systems (NeurIPS 2024). [To appear]
+- **Yang, G.**, Cao, Y., and Feng, L., 2024. 注意力增强的个性化回归. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024). [[NeurIPS](https://openreview.net/forum?id=9xoFciqYIU)]
 - Zhang, Y., **Yang, G**., Zhao, S., Ni, P., Lian, H., Chen, H. and Li, C., 2020. 基于生成对抗网络的偏标签学习. In 24th European Conference on Artificial Intelligence (ECAI 2020). [[IOS](https://ebooks.iospress.nl/doi/10.3233/FAIA200279)]
 
 <br>
