@@ -29,7 +29,7 @@ My current research interests focus on statistical machine learning, medical ima
 ### Journals
 
 - Feng, L. and **Yang, G.**, 2023. Deep Kronecker Network. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
-- **Yang, G.** and Feng, L. Region Detection and Image Clustering via Sparse Kronecker Product Decomposition. Under review.
+- **Yang, G.** and Feng, L. Region Detection and Image Clustering via Sparse Kronecker Product Decomposition. To appear in Computational Statistics & Data Analysis.
 - Zhang, Y., Lian, H., **Yang, G.**, Zhao, S., Ni, P., Chen, H. and Li, C., 2021. Inaccurate-Supervised Learning with Generative Adversarial Nets. IEEE Transactions on Cybernetics. [[IEEE](https://ieeexplore.ieee.org/abstract/document/9526351)]
 
 <hr>
