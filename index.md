@@ -36,6 +36,7 @@ My current research interests focus on statistical machine learning, medical ima
 
 ### Conferences
 
+- **Yang, G.**, Shi, W., Cao, Y., and Feng, L., 2025. Learning CNN Filters via Generalized Stein's Method. Under review.
 - **Yang, G.**, Cao, Y., and Feng, L., 2024. Attention boosted Individualized Regression. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024). [[NeurIPS](https://openreview.net/forum?id=9xoFciqYIU)]
 - Zhang, Y., **Yang, G.**, Zhao, S., Ni, P., Lian, H., Chen, H. and Li, C., 2020. Partial Label Learning via Generative Adversarial Nets. In 24th European Conference on Artificial Intelligence (ECAI 2020). [[IOS](https://ebooks.iospress.nl/doi/10.3233/FAIA200279)]
 
