@@ -28,7 +28,7 @@ layout: page
 
 #### 期刊
 
-- **Yang, G.** and Feng, L., 2025. 基于稀疏Kronecker积分解的区域检测和图像聚类. To appear in Computational Statistics and Data Analysis.
+- **Yang, G.** and Feng, L., 2025. 基于稀疏Kronecker积分解的区域检测和图像聚类. Computational Statistics and Data Analysis. [[Elsevier](https://www.sciencedirect.com/science/article/pii/S0167947325001021)]
 - Feng, L. and **Yang, G.**, 2023. 深度Kronecker网络. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
 - Zhang, Y., Lian, H., **Yang, G.**, Zhao, S., Ni, P., Chen, H. and Li, C., 2021. 基于生成对抗网络的不准确监督学习. IEEE Transactions on Cybernetics. [[IEEE](https://ieeexplore.ieee.org/abstract/document/9526351)]
 
