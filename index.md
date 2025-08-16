@@ -28,7 +28,7 @@ My current research interests focus on statistical machine learning, medical ima
 
 ### Journals
 
-- **Yang, G.**, Lin, L., Feng, L., Wang, F. and Wang, J., 2025+. Understanding Partial Transfer in CNNs via Kronecker Product Regression. Submitted.
+- **Yang, G.**, Lin, L., Feng, L., Wang, F. and Wang, J., 2025+. Understanding Partial Transfer in CNNs via Kronecker Product Regression. Under review.
 - **Yang, G.** and Feng, L., 2025. Region Detection and Image Clustering via Sparse Kronecker Product Decomposition. Computational Statistics and Data Analysis. [[Elsevier](https://www.sciencedirect.com/science/article/pii/S0167947325001021)]
 - Feng, L. and **Yang, G.**, 2023. Deep Kronecker Network. Biometrika. [[OUP](https://doi.org/10.1093/biomet/asad049)][[arKiv](https://arxiv.org/abs/2210.13327)]
 - Zhang, Y., Lian, H., **Yang, G.**, Zhao, S., Ni, P., Chen, H. and Li, C., 2021. Inaccurate-Supervised Learning with Generative Adversarial Nets. IEEE Transactions on Cybernetics. [[IEEE](https://ieeexplore.ieee.org/abstract/document/9526351)]
