@@ -6,9 +6,9 @@ layout: page
 
 Here is **Guang Yang**.
 
-I am a postdoctoral fellow in Department of Statistics, The Chinese University of Hong Kong (STA, CUHK).
+I am a Postdoctoral Fellow in the Department of Statistics and Data Science at The Chinese University of Hong Kong, working with Prof. Junhui Wang. I received my PhD in Statistics from the School of Data Science at City University of Hong Kong under the supervision of Prof. Long Feng. Prior to that, I received my Bachelor's degree in Economic Statistics from the School of Statistics at Renmin University of China.
 
-My current research interests focus on statistical machine learning, medical imaging analysis, etc.
+My current research interests focus on statistical machine learning and medical imaging analysis.
 
 <br>
 
@@ -16,8 +16,8 @@ My current research interests focus on statistical machine learning, medical ima
 
 ## Backgrounds
 
-- **2024.09 - Present:** Postdoc, Department of Statistics, The Chinese University of Hong Kong
-- **2020.09 - 2024.08:** PhD, Department of Data Science, City University of Hong Kong
+- **2024.09 - Present:** Postdoc, Department of Statistics and Data Science, The Chinese University of Hong Kong
+- **2020.09 - 2024.08:** PhD, School of Data Science, City University of Hong Kong
 - **2016.09 - 2020.06:** BEc, School of Statistics, Renmin University of China
 
 <br>
